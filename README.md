@@ -24,7 +24,7 @@ Imagery now sends a private message that asks if the image is to be uploaded to 
 
 ## Contributions
 
-PRs and feature suggestions welcome! :D 
+[PRs](https://github.com/dibyadas/imagery/pulls) and [feature suggestions](https://github.com/dibyadas/imagery/issues/new) welcome! :D 
 
 
 
